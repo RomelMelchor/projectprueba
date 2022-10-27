@@ -5,5 +5,6 @@ int main(void)
 {
     printf("Id proceso hijo = %d \n", getpid());
     printf("Id proceso padre = %d \n", getpid());
+    int git;
     return 0;
 }
